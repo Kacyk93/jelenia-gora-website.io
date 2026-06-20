@@ -8,6 +8,12 @@ A front‑end portfolio project presenting key information about the city of Jel
 👉 **Live version:**  
 *(link will appear after deploying to GitHub Pages)*
 
+
+## 🚧 Project Status
+
+This project is **currently under active development** and will be **updated regularly**.  
+New sections, features and improvements will be added continuously.
+
 ---
 
 ## 🛠️ Technologies
@@ -38,3 +44,28 @@ A front‑end portfolio project presenting key information about the city of Jel
 - hamburger menu  
 - scroll lock when menu is open  
 - full responsiveness down to 480px
+
+- ## 🔧 Installation & Usage
+
+1. Clone the repository:
+2. git clone https://github.com/your-login/jelenia-gora-website.git
+3. 2. Open `index.html` in your browser.
+
+No additional setup or dependencies required.
+
+---
+
+## 🌐 Deploying to GitHub Pages
+
+1. Go to **Settings → Pages**  
+2. Set:
+   - **Source:** Deploy from branch  
+   - **Branch:** main  
+3. Save
+
+Your website will be available at:
+https://your-login.github.io/jelenia-gora-website/
+
+## 📬 Contact
+
+Feel free to reach out via the contact form on the website.
