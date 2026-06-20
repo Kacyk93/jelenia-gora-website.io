@@ -144,7 +144,7 @@ body {
 .header-container {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
-    url("./jelenia-gora-website.io/images/hero-img");
+    url("./images/hero-img");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -267,12 +267,12 @@ body:not(.fade-ready) {
 
 /* Flaga Polski */
 .flag-pl {
-  background-image: url("../Projekt_Jelenia_Gora/images/Flag_of_Poland.svg");
+  background-image: url("./images/Flag_of_Poland.svg");
 }
 
 /* Flaga Niemiec */
 .flag-de {
-  background-image: url("../Projekt_Jelenia_Gora/images/Flag_of_Germany.svg");
+  background-image: url("./images/Flag_of_Germany.svg");
   display: flex;
 }
 
@@ -325,7 +325,7 @@ body:not(.fade-ready) {
 
 .info-cards {
   margin-top: 250px;
-  background-image: url("./jelenia-gora-website.io/images/Jelenia-Gora-archiwalne-24.jpg");
+  background-image: url("./images/Jelenia-Gora-archiwalne-24.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -581,27 +581,27 @@ body:not(.fade-ready) {
 /* Zdjęcia i kafelki */
 
 .one {
-  background-image: url(../Projekt_Jelenia_Gora/images/z-lotu-ptaka.jpg);
+  background-image: url(./images/z-lotu-ptaka.jpg);
 }
 
 .two {
-  background-image: url(../Projekt_Jelenia_Gora/images/kamienice.webp);
+  background-image: url(./images/kamienice.webp);
 }
 
 .three {
-  background-image: url(../Projekt_Jelenia_Gora/images/miedzy-gorami.jpg);
+  background-image: url(./images/miedzy-gorami.jpg);
 }
 
 .four {
-  background-image: url(../Projekt_Jelenia_Gora/images/sniezka.jpeg);
+  background-image: url(./images/sniezka.jpeg);
 }
 
 .five {
-  background-image: url(../Projekt_Jelenia_Gora/images/chojnik.jpg);
+  background-image: url(./images/chojnik.jpg);
 }
 
 .six {
-  background-image: url(../Projekt_Jelenia_Gora/images/wodospad.jpg);
+  background-image: url(./images/wodospad.jpg);
 }
 
 /* Sekcja Form */
