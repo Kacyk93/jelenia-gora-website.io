@@ -144,7 +144,7 @@ body {
 .header-container {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
-    url("/images/hero-img.jpg");
+    url("./images/hero-img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -267,12 +267,12 @@ body:not(.fade-ready) {
 
 /* Flaga Polski */
 .flag-pl {
-  background-image: url("/images/Flag_of_Poland.svg");
+  background-image: url("./images/Flag_of_Poland.svg");
 }
 
 /* Flaga Niemiec */
 .flag-de {
-  background-image: url("/images/Flag_of_Germany.svg");
+  background-image: url("./images/Flag_of_Germany.svg");
   display: flex;
 }
 
